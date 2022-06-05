@@ -32,7 +32,6 @@ class Bad {
         itemImage =0;
       } else {
         fishHealth--;
-      fishHealth--;
       }
       direction=-1;
     }
